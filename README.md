@@ -1,2 +1,2 @@
 # coding_is_great
-Sharing my notebooks
+It is a place to share my notebooks.
